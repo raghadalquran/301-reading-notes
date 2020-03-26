@@ -4,7 +4,7 @@
 
 | Read   |      Links Of Read      |  
 |----------|:-------------:|
-| Read01 | Link :     | 
+| Read01 | Link : https://raghadalquran.github.io/301-reading-notes/read01    | 
 | Read02 | Link :     |  
 | Read03 | Link :     |   
 | Read04 | Link :     | 
