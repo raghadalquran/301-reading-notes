@@ -9,7 +9,7 @@
 - When you start using **jQuery**, the effects methods can enhance your web page with transitions and movement. 
 - The .animate() method allows you to create some of your own effects and animations by changing CSS properties.
 - The position of <script> elements can affect how quickly a web page seems to load. 
-[!image](https://image.slidesharecdn.com/jquery-120526131511-phpapp01/95/jquery-7-728.jpg?cb=1338114610)
+![image](https://image.slidesharecdn.com/jquery-120526131511-phpapp01/95/jquery-7-728.jpg?cb=1338114610)
 
 
 
