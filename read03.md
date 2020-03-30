@@ -10,6 +10,8 @@
 - Some tags are replaced with a value, some nothing, and others a series of values.
 - Mustache is a specification for a templating language. In general, we would write templates according to the Mustache specification, and it can then be compiled by a templating engine to be rendered to create an output.
  
+ ![image](https://miro.medium.com/max/2744/1*P9q0tkeaRY2l1JOXaVKAig.png)
+ 
  ## Summary of Flexbox ##
  ### justify-content ###
 1. flex-start: Items align to the left side of the container.
