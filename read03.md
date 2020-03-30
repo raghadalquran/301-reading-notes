@@ -11,8 +11,10 @@
 - Mustache is a specification for a templating language. In general, we would write templates according to the Mustache specification, and it can then be compiled by a templating engine to be rendered to create an output.
  
  ## Summary of Flexbox ##
+ ### justify-content ###
 1. flex-start: Items align to the left side of the container.
 1. flex-end: Items align to the right side of the container.
 1. center: Items align at the center of the container.
 1. space-between: Items display with equal spacing between them.
 1. space-around: Items display with equal spacing around them.
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3j9COBIer3rtRFAU83gjG3hwA9k8luhpv84CIsG73a_GJpfvD&usqp=CAU)
