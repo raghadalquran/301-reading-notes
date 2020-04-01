@@ -8,7 +8,7 @@
 | Read02 | Link : https://raghadalquran.github.io/301-reading-notes/read02    |  
 | Read03 | Link : https://raghadalquran.github.io/301-reading-notes/read03    |   
 | Read04 | Link : https://raghadalquran.github.io/301-reading-notes/read04    | 
-| Read05 | Link :     |  
+| Read05 | Link : https://raghadalquran.github.io/301-reading-notes/read05    |  
 | Read06 | Link :     | 
 | Read07 | Link :     | 
 | Read08 | Link :     |  
