@@ -5,10 +5,13 @@
 - Node.js® is a JavaScript runtime built on Chrome’s V8 JavaScript engine.
 - It is used for developing applications that make heavy use of the ability to run JavaScript both on the client, as well as on server side and therefore benefit from the re-usability of code and the lack of context switching.
 - The V8 engine is the open-source JavaScript engine that runs in Google Chrome and other Chromium-based web browsers.
-
-### Node.js Has Excellent Support for Modern JavaScript ###
+#### Node.js Has Excellent Support for Modern JavaScript ####
 - Node comes bundled with a package manager called npm. To check which version you have installed on your system, type npm -v.
 - if you want to start developing apps with any modern JavaScript framework (for example, React or Angular), you’ll be expected to have a working knowledge of Node and npm (or maybe Yarn). 
 - The biggest use cases for Node.js — running JavaScript on the server.
+
+## What Are the Advantages of Node.js? ##
+**Aside from speed and scalability, an often-touted advantage of using JavaScript on a web server — as well as in the browser — is that your brain no longer needs to switch modes. You can do everything in the same language, which, as a developer, makes you more productive (and hopefully, happier).**
+
 
 ![](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2012/10/1516152673node_event_loop.png)
