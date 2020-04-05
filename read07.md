@@ -4,6 +4,7 @@
 
 - SuperAgent is light-weight progressive ajax API crafted for flexibility, readability, and a low learning curve after being frustrated with many of the existing request APIs. It also works with Node.js!
 - SuperAgent is a small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features. View the docs.
+
  **Motivation**
 - This library spawned from my frustration with jQuery's weak & inconsistent Ajax support.
 - jQuery's API, while having recently added some promise-like support, is largely static, forcing you to build up big objects containing all the header fields and options, not to mention most of the options are awkwardly named "type" instead of "method", etc.
