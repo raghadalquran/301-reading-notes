@@ -12,7 +12,7 @@
 | Read06 | Link : https://raghadalquran.github.io/301-reading-notes/read06    | 
 | Read07 | Link : https://raghadalquran.github.io/301-reading-notes/read07    | 
 | Read08 | Link : https://raghadalquran.github.io/301-reading-notes/read08    |  
-| Read09 | Link :     |   
+| Read09 | Link : https://raghadalquran.github.io/301-reading-notes/read09    |   
 | Read10 | Link :     | 
 | Read11 | Link :     |  
 | Read12 | Link :     | 
