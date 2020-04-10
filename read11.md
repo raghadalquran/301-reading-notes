@@ -15,6 +15,9 @@
 1. Static caching of templates.
 1. Complies with the Express view system.
 
+![image](https://miro.medium.com/max/850/1*usicWavHRKy4Sjm2XTCBMA.jpeg)
+
+
 ## Using the API ##
 **Authorizing requests and identifying your application**
 - Every request your application sends to the Books API needs to identify your application to Google. There are two ways to identify your application: using an OAuth 2.0 token (which also authorizes the request) and/or using the application's API key. Here's how to determine which of those options to use:
