@@ -16,7 +16,7 @@
 | Read10 | Link : https://raghadalquran.github.io/301-reading-notes/read10    | 
 | Read11 | Link : https://raghadalquran.github.io/301-reading-notes/read11    |  
 | Read12 | Link : https://raghadalquran.github.io/301-reading-notes/read12    | 
-| Read13 | Link :     | 
+| Read13 | Link :    | 
 | Read14 | Link :     |  
 | Read15 | Link:      | 
     
