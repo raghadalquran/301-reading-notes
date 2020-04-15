@@ -1,6 +1,6 @@
 # SUMMARY #
 
-Silicon Valley’s gender gap (Links to an external site.)
+Silicon Valley’s gender gap.
 
 - In 2014, 70% of the employees at the top tech companies in Silicon Valley, such as Google, Facebook, and Twitter, were male. In technical roles, this phenomenon is even more pronounced; for example, only 10% of the technical workforce at Twitter is female.
 Marketing games.
